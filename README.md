@@ -255,10 +255,4 @@ All errors include descriptive messages in JSON format.
 - Static file serving for fast image retrieval
 - Multer disk storage for efficient file handling
 
-## License
 
-ISC
-
-## Support
-
-For issues or questions, please create a GitHub issue or contact the development team.
